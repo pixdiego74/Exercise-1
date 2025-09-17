@@ -25,3 +25,20 @@ footer{
     bottom: 0;
     width: 100%;
 }
+#caracteristcas{
+    background-color: #f4f4f4;
+    padding: 1rem;
+    margin: 1rem 0;
+}
+
+#caracteristicas ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+#caracteristicas li{
+    background-color: #ddd;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
